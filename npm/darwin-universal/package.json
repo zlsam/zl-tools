@@ -1,0 +1,15 @@
+{
+  "name": "@zl_sam/zl-tools-darwin-universal",
+  "version": "0.0.0",
+  "os": [
+    "darwin"
+  ],
+  "main": "zl-tools.darwin-universal.node",
+  "files": [
+    "zl-tools.darwin-universal.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}

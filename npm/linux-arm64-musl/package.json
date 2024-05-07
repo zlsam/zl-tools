@@ -1,0 +1,21 @@
+{
+  "name": "@zl_sam/zl-tools-linux-arm64-musl",
+  "version": "0.0.0",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "arm64"
+  ],
+  "main": "zl-tools.linux-arm64-musl.node",
+  "files": [
+    "zl-tools.linux-arm64-musl.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "libc": [
+    "musl"
+  ]
+}
